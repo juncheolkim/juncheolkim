@@ -7,7 +7,7 @@
 <h2>skills</h2>
 <b>Learning tech</b>
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
-    <img src="https://img.shields.io/badge/c#-#512BD4?style=for-the-badge&logo=csharp&logoColor=FFFFFF">
+    <img src="https://img.shields.io/badge/c#-#512BD4?style=for-the-badge&logo=csharp&logoColor=#FFFFFF">
 </div>
 <br/>
 <b>Used tech</b>
