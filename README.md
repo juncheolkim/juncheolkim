@@ -1,10 +1,10 @@
-## 오늘도 도전하는 개발자 김준철입니다.
+## Problem-solving server developer, always learning.
 <br/>
-<h2>저는 다음과 같은 개발을 지향합니다.</h2>
+<h2>Dev goal</h2>
 <br/>
-<h2>이렇게 살아가고 있습니다.</h2>
+<h2>Lifestyle</h2>
 <br/>
-<h2>제가 학습하고 있는 기술들입니다.</h2>
+<h2>Learning tech</h2>
 <br/>
-<h2>지금까지 사용해본 기술들입니다.</h2>
+<h2>Used tech</h2>
 <br/>
