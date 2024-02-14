@@ -8,8 +8,8 @@
 <b>Learning tech</b>
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-    <img alt="redis" src ="https://img.shields.io/badge/Redis-#DC382D.svg?&style=for-the-badge&logo=redis&logoColor=#DC382D"/>
-    <img alt="mysql" src ="https://img.shields.io/badge/MySQL-#4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=#4479A1"/>
+    <img alt="redis" src ="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+    <img alt="mysql" src ="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 <br/>
 <b>Used tech</b>
