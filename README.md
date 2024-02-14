@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img alt="redis" src ="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
     <img alt="mysql" src ="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img alt="unity" src ="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 </div>
 <br/>
 <b>Used tech</b>
