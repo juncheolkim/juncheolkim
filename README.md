@@ -34,8 +34,8 @@
 <h3 align="center"> 🚀 Learning Focus 🚀 </h3>
 <div align="center">
     <p align="center">
-        🌟 Currently delving into the intricacies of <strong>C#</strong> and exploring the vast landscape of the <strong>.NET ecosystem</strong>.
+        🌟 Diving deep into C# and the .NET ecosystem.
         <br>
-        🌐 Taking a deep dive into the world of <strong>TCP/IP communication</strong>, aiming for a thorough understanding and mastery.
+        🌐 Engaging in a comprehensive exploration of TCP/IP communication protocols to achieve in-depth knowledge and expertise.
     </p>
 </div>
